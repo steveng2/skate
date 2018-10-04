@@ -6,3 +6,16 @@ background: none;
     background-color: #eceeef;
     padding: 2em;
 }
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2em;
+}
+.coolStuffWrapper {
+    margin-top: 20px;
+}
+.coolStuffBtn {
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
